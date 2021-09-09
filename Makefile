@@ -1,4 +1,4 @@
-MCU=m32u4
+MCU=atmega32u4
 F_CPU=16000000
 CC=avr-gcc
 OBJCOPY=avr-objcopy
